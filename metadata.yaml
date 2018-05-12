@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1762
     wikipedia: http://en.wikipedia.org/wiki/Elinor_Glyn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17048#The-Man-and-the-Moment
 gutenberg_issued: '2005-11-11'
 gutenberg_type: Text
 identifiers:
